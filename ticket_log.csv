@@ -1,0 +1,2 @@
+2026-07-15 16:58:53,web-server-1,nginx was inactive,restarted nginx,SUCCESS - now active
+2026-07-15 17:35:21,web-server-1,fakeservice123 was inactive,attempted restart fakeservice123,FAILED - still not active
